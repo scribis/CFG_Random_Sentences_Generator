@@ -8,4 +8,4 @@ Random Sentences Generator from a CFG with Python
 
 
 ## VISUAL EXAMPLE OF A CONTEXT FREE GRAMMAR
-![cfg.png](attachment:cfg.png "CFG example")
+![ch08-tree-4-417x208](https://user-images.githubusercontent.com/59028920/180451209-a1a2f7c8-90b8-432f-b746-106ef4fe0894.png)
